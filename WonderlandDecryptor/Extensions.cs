@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WonderlandRenamer
+namespace WonderlandDecryptor
 {
     public static class Extensions
     {
