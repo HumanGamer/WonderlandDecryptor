@@ -21,7 +21,7 @@ namespace WonderlandDecryptor
         {
             if (args.Length != 1)
             {
-                Console.WriteLine("WonderlandRenamer <Folder>");
+                Console.WriteLine("WonderlandDecryptor <Folder>");
                 PauseKeyPress();
                 Environment.Exit(1);
             }
